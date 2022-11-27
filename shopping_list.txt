@@ -1,0 +1,6 @@
+Tämä on ostoslista:
+- Leipää
+- Leikkele
+- Juusto
+- Kananmunat
+- Mehu
