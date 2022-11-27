@@ -4,4 +4,6 @@ Tämä on ostoslista:
 - Juusto
 - Kananmunat
 - Mehu
+Merged from Github and local
 - Kissanruoka
+- Koiranruoka
