@@ -3,3 +3,5 @@ Tämä on tekstitiedosto jossa lukee jotain hyvin tärkeätä tietoa.
 Tämän on kirjoittanut Jonas Christiansen.
 
 Tämä on uutta tekstiä joka on lisätty jotta voi kokeilla stash-toimintoa.
+
+Tämä on uutta tekstiä joka on lisätty stash toiminnon aikana ja tehty commit lopuksi.
