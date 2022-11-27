@@ -1,3 +1,5 @@
+Tämä on uusi rivi joka on lisätty Githubin kautta ja tehty commit.
+
 Tämä on tekstitiedosto jossa lukee jotain hyvin tärkeätä tietoa.
 
 Tämän on kirjoittanut Jonas Christiansen.
